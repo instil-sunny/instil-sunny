@@ -3,7 +3,6 @@
 - 👩‍💻 Software Engineer (Front End)
 - 🏠 Oceanside, CA
 - 🍵 Tea Connoisseur
-- 🐙 @sunnydatko
 - 📫 sunnydatko@gmail.com
 
 <!---
