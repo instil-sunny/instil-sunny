@@ -1,9 +1,9 @@
 👋 Hi, I’m Sunny Datko
 
-- 👩‍💻 Engineer (Front End)
+- 👩‍💻 Software Engineer (Front End)
 - 🏠 Oceanside, CA
 - 🍵 Tea Connoisseur
-- 🐦/🐙 @sunnydatko
+- 🐙 @sunnydatko
 - 📫 sunnydatko@gmail.com
 
 <!---
